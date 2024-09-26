@@ -1,1 +1,1 @@
-Contains content created for the Image Sementation workshop conducted at IIIT-Delhi (June, 2024)
+Contains content created for the Image Sementation workshop organized at IIIT-Delhi (June, 2024)
